@@ -12,7 +12,7 @@
 - 💻 Obsessed with Golang, Cybersecurity, Linux, and Anime
 - 🧠 Learning **OS dev**, **ML**, and **CP** — simultaneously like a mad lad
 - 🛠️ Building tools, projects, and systems that *actually slap*
-- 🏁 Dream: CEO of a company that makes Google cry
+- 🏁 Dream: To build powerful systems — while staying one with Mother Nature.
 
 ---
 
