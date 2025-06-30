@@ -1,5 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Ruhin</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6FFF94&center=true&lines=👨‍💻+Code+like+a+beast;+📚+Learn+like+you're+in+Zaworldo;+🚀+Building+my+tech+empire" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 21 y/o engineering student from Bangladesh  
+- 💻 Obsessed with Golang, Cybersecurity, Linux, and Anime
+- 🧠 Learning **OS dev**, **ML**, and **CP** — simultaneously like a mad lad
+- 🛠️ Building tools, projects, and systems that *actually slap*
+- 🏁 Dream: CEO of a company that makes Google cry
+
+---
+
+### ⚔️ Currently Grinding
+
+- 📘 Reading: `OSTEP` (Operating Systems)
+- 🧠 Solving: CP Problems (Go only 💨)
+- 🔧 Building: `PokeTacTix`, `bytebook`, `Golang-small-projects`
+- 🎯 Goal: Expert on Codeforces by October 2025
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,js,lua" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifrunruhin12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifrunruhin12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🖥️ Projects I'm Proud Of
+
+- 🔥 [`bytebook`](https://github.com/ifrunruhin12/bytebook) – evolving digital grimoire of programming knowledge  
+- 🎮 [`PokeTacTix`](https://github.com/ifrunruhin12/PokeTacTix) – Pokémon battle game built in Go  
+- 🧪 [`gopher-grind-cp`](https://github.com/ifrunruhin12/gopher-grind-cp) – Go CP grind with clean fast code
+
+---
+
+### 🌐 Let's Connect
+
+- 🌐 [Blog](https://ifrunsthoughts.wordpress.com)
+- 🐦 [Twitter](https://twitter.com/ifrunruhin)
+- 📸 Instagram: `_if_runnn_r`
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ifrunruhin12&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
+
+> ⚡ “Don’t watch the clock, be the one who breaks it.”
 <!--
 **ifrunruhin12/ifrunruhin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
