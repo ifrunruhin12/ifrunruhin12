@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Ruhin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6FFF94&center=true&lines=👨‍💻+Code+like+a+beast;+📚+Learn+like+you're+in+ZAWARUDO;+🚀+Building+my+tech+heaven" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6FFF94&center=true&lines=👨‍💻+Code+like+a+beast;+📚+Learn+like+you're+in+ZAWARUDO;+🚀+Let+ambition+flow+through" />
 </p>
 
 ---
