@@ -39,14 +39,6 @@
 
 ---
 
-### 🌐 Let's Connect
-
-- 🌐 [Blog](https://ifrunsthoughts.wordpress.com)
-- 🐦 [Twitter](https://twitter.com/ifrunruhin)
-- 📸 Instagram: `_if_runnn_r`
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ifrunruhin12&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
