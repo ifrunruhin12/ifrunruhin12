@@ -27,11 +27,11 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,js,lua" />
+<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,js,lua,mysql" />
 
 ---
 
-### 🖥️ Projects I'm Proud Of
+### 🖥️ Projects I'm daily working on
 
 - 🔥 [`bytebook`](https://github.com/ifrunruhin12/bytebook) – evolving digital grimoire of programming knowledge  
 - 🎮 [`PokeTacTix`](https://github.com/ifrunruhin12/PokeTacTix) – Pokémon battle game built in Go  
