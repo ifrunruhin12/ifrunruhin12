@@ -11,7 +11,7 @@
 - 🎓 21 y/o engineering student from Bangladesh  
 - 💻 Obsessed with Golang, Cybersecurity, Linux, and Anime
 - 🧠 Learning **OS dev**, **ML**, and **CP** — simultaneously like a mad lad
-- 🛠️ Building tools, projects, and systems that *actually slap*
+- 🛠️ Building tools, projects, and systems that *actually slaps*
 - 🏁 Dream: To build powerful systems — while staying one with Mother Nature.
 
 ---
