@@ -25,9 +25,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,js,lua,mysql" />
+<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,js,lua,mysql,postgresql" />
 
 ---
 
