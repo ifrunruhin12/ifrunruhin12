@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,git,linux,neovim,c,cpp,js,lua,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=go,python,java,bash,git,linux,neovim,c,cpp,js,lua,mysql,postgresql" />
 
 ---
 
