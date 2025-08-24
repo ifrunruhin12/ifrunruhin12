@@ -43,4 +43,4 @@
   <img src="https://komarev.com/ghpvc/?username=ifrunruhin12&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-> ⚡ “Don’t watch the clock, be the one who breaks it.”
+> ⚡ “Don’t watch the clock, be the one who breaks it!”
