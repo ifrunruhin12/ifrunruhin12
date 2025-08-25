@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=go,python,java,bash,git,linux,neovim,c,cpp,js,lua,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=go,python,java,bash,git,linux,neovim,c,cpp,js,lua,mysql,postgresql,postman" />
 
 ---
 
@@ -43,4 +43,4 @@
   <img src="https://komarev.com/ghpvc/?username=ifrunruhin12&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-> ⚡ “Don’t watch the clock, be the one who breaks it!”
+> ⚡ “Don’t watch the clock, be the one who breaks it.”
