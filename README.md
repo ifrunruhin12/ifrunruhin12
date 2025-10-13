@@ -2,7 +2,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 - 🧑‍💻 Software Engineer from Bangladesh, building systems that matter.
 - 🦀 Currently learning **Rust**, still vibing with **Go** & **Linux**  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔥 What I’m Up To
+### What I’m Up To
 
 - 🧠 Diving deep into **systems programming** & **Rust internals**  
 - 🧩 Experimenting with tools that redefine dev experience  
@@ -19,20 +19,14 @@
 
 ---
 
-### 💻 Languages I Use
+### Languages I Use
+Rust • Go • Python • C • C++ • JavaScript • Lua
 
-<img src="https://skillicons.dev/icons?i=go,rust,python,lua,c,cpp,java,js,tailwindcss" />
-
----
-
-### 🧰 Tools I’m Familiar With
-
-<img src="https://skillicons.dev/icons?i=linux,neovim,bash,git,postman,postgresql,mongodb,docker,kubernetes,dbeaver" />
-
----
+### Tools I’m Familiar With
+Linux • Neovim • Bash • Git • PostgreSQL • Docker • Kubernetes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ifrunruhin12&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-> 🧭 “Don’t just learn the system! rewrite it.”
+> “Don’t just learn the system! rewrite it.”
