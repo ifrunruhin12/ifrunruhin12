@@ -4,9 +4,8 @@
 ### About Me
 
 - Software Engineer from Bangladesh, building systems that matter.
-- Currently learning **Rust**🦀, still vibing with **Go** & **Linux**  
-- Building open-source projects that *actually make an impact*  
-- I believe in code that empowers not just performs.  
+- A new and fresh **Rustacean**🦀, also a passionate Go developer. 
+- Linux and Cybersecurity enthusiast.
 
 ---
 
@@ -15,7 +14,8 @@
 
 - Diving deep into **systems programming** & **Rust internals**  
 - Experimenting with tools that redefine dev experience  
-- Building projects that I’d actually use myself  
+- Building open-source projects that *actually make an impact*
+- Managing large community and moving forward with everyone to a greater future
 
 ---
 
