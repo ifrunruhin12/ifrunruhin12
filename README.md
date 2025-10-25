@@ -23,7 +23,7 @@
 Rust • Go • Python • C • C++ • JavaScript • Lua
 
 ### Tools I’m Familiar With
-Linux • Neovim • Bash • Git • PostgreSQL • Docker • Kubernetes
+Linux • Neovim • Bash • Git • PostgreSQL • Docker • Kubernetes • Terraform
 
 ---
 
