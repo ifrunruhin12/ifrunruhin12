@@ -12,7 +12,8 @@
 
 ### What I’m Up To
 
-- Diving deep into **systems programming** & **Rust internals**  
+- Diving deep into **systems programming** & **Rust internals**
+- Learning about **Asterisk** and ippbx system
 - Experimenting with tools that redefine dev experience  
 - Building open-source projects that will be useful (I think)
 - Managing large community and moving forward with everyone to a better future
